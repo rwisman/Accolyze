@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Accolyze</string>
+    <string name="action_settings">Settings</string>
+    <string name="intro"><![CDATA[Accelerometer data Collection and Analysis.\n\n
+        					Transforms accelerometer file data to Excel spreadsheet \'Accolyze/copy.xls\'. 
+        					Edit template spreadsheet \'Accolyze/input.xls\'; columns 1-5 will be over-written by data.\n\n
+        					\tAnalyze: Kingsoft Office \n https://play.google.com/store/apps/details?id=cn.wps.moffice_eng\n\n
+        					\tCollect: Accelerometer Monitor\nhttps://play.google.com/store/apps/details?id=com.lul.accelerometer\n
+        					_________________________________\n]]>      
+    </string>
+    <string name="collect_label">Collect</string>
+    <string name="analyze_label">Analyze</string>
+ </resources>
